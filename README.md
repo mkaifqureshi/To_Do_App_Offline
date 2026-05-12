@@ -23,7 +23,3 @@ This project helps manage daily tasks efficiently with priority sorting, search 
 - File Handling
 - CLI (Command Line Interface)
 - Data Structures (Lists & Dictionaries)
-
----
-
-## 📂 Project Structure
